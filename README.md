@@ -1,4 +1,4 @@
-### Simulation of square-root processes made simple : applications to the Heston model
+### Simulation of square-root processes made simple: applications to the Heston model
 
 This repository reproduces the results of [E. Abi Jaber (2025)](https://arxiv.org/pdf/2412.11264). 
 
