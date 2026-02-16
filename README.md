@@ -8,5 +8,7 @@ We implement:
 
 ### Examples of illustrations 
 
+![iv](assets/iv_case_1.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
