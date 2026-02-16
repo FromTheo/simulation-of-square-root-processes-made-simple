@@ -8,6 +8,8 @@ We implement:
 
 ### Examples of illustrations 
 
+![swaps](assets/swaps_case_1.png)
+
 ![prices](assets/prices_case_1.png)
 
 ![iv](assets/iv_case_1.png)
