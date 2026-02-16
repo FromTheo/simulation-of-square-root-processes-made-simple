@@ -13,5 +13,7 @@ We implement:
 
 ![iv](assets/iv_case_1.png)
 
+![distribution](assets/distribution_V.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
