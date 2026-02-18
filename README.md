@@ -8,7 +8,7 @@ We implement:
 - Empirical comparison across several experiments: pricing of $q$-volatility swaps, European options pricing (with reference prices obtained via Fourier inversion), and implied volatility smiles under market revelant regimes (in particular, the Feller condition is violated) (see `demo.ipynb`). 
 - Since the law of $V_t|V_s$ $s\leq t$ is proportional to a noncentral chi-square distribution, we also evaluate each scheme's ability to reproduce the conditional CDF then $s=0$.  
 
-In addition, we provide a technical note (`technical_note.pdf`) detailing the construction of the TG(-M), QE(-M), and Alfonsi second-order schemes. 
+In addition, we provide a technical note (see `simulate_square_root_processes.pdf`) detailing the construction of the TG(-M), QE(-M), and Alfonsi second-order schemes. 
 
 ### Examples of illustrations 
 
