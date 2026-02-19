@@ -10,6 +10,8 @@ We implement:
 
 In addition, we provide a technical note (see `simulate_square_root_processes.pdf`) detailing the construction of the TG(-M), QE(-M), and Alfonsi second-order schemes. 
 
+In addition, we attach two technical notes: `simulate_square_root_processes.pdf`, which details the construction of the TG(-M), QE(-M), and Alfonsi second-order schemes; and a `heston_char_func.pdf` presenting the full differentiation of the Heston characteristic function.
+
 ### Examples of illustrations 
 
 ![swaps](assets/swaps_case_1.png)
